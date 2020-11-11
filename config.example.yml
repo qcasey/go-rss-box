@@ -1,0 +1,14 @@
+mail:
+  username: test@gmail.com # CHANGE ME
+  password: abcd123 # CHANGE ME
+  imap_server: imap.gmail.com:993 # IF NOT GMAIL, CHANGE ME
+  imap_inbox: INBOX # INBOX for all your mail, it can also be a label in Gmail i.e. 'My Rss Feeds'
+
+feed:
+  name: My Newsletters
+  description: Local development RSS feed
+  host: "http://localhost"
+
+  # for hashing message IDs.
+  # If your feed is public, replace this with the output of `uuidgen` in a terminal
+  secret: "9353693a-abfb-456f-9546-8f210ee65f47"
