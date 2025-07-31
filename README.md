@@ -1,7 +1,5 @@
 # go-rss-box
 
-![output](https://quinncasey.com/post/go-rss-box/output_huf35c8b4dd353f57a289c069d281b0a18_137180_1000x0_resize_lanczos_2.png)
-
 go-rss-box generates a private RSS feed from the newsletters in your inbox.
 
 Essentially my own implementation of [Kill the Newsletter](https://kill-the-newsletter.com/).
